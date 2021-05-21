@@ -15,4 +15,3 @@ const jokes = [
 ];
 
 module.exports = jokes;
-
